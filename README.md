@@ -9,9 +9,9 @@ Agency: American Battlefield Monuments Commission
 
 www.abmc.gov
 
-Application Name: NOAA-CrowdMag Android application
+Application Name: Normandy American Cemetery iOS Application
 
-Test Cycle Dates: August 18, 2014 to August 29, 2014
+Test Cycle Dates: August 28, 2014 to September 5, 2014
 
 Test Cycle Coordinator: David Fern	david.fern@ssa.gov
 
